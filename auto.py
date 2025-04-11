@@ -3,7 +3,9 @@ import time
 from datetime import datetime
 
 # ✅ Đọc danh sách mã giftcode từ file
-with open("gift.txt", "r", encoding="utf-8") as f:
+# with open("gift.txt", "r", encoding="utf-8") as f:
+#     giftcodes = [line.strip() for line in f if line.strip()]
+with open("gift_use_one.txt", "r", encoding="utf-8") as f:
     giftcodes = [line.strip() for line in f if line.strip()]
 
 # ✅ Thông tin người dùng (cần thay bằng của bạn)
