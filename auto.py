@@ -23,10 +23,12 @@ with open("gift_use_one.txt", "r", encoding="utf-8") as f:
 # user_info = {"userId":"3204534136623620096","profileId":"33c5fbb541a5c981","serverId":"30","gameCode":"946","roleId":"1801473370581489933","roleName":"oSloW","level":""}
 # acc = "quynh.nguyenhuu@imipgroup.com"
 # user_info = {"userId":"3206406653746823168","profileId":"30e66b2b8ef88981","serverId":"36","gameCode":"946","roleId":"1801479968108685418","roleName":"slow36e","level":""}
-acc = "nguyenquynhvp.ictu@gmail.com"
-user_info = {"userId":"3206406653746823168","profileId":"30e66b2b8ef88981","serverId":"36","gameCode":"946","roleId":"1801479968108685418","roleName":"slow36e","level":""}
+# acc = "nguyenquynhvp.ictu@gmail.com"
+# user_info = {"userId":"3206406653746823168","profileId":"30e66b2b8ef88981","serverId":"36","gameCode":"946","roleId":"1801479968108685418","roleName":"slow36e","level":""}
+acc = "comebackvs1"
+user_info = {"userId":"3216562732197855232","profileId":"332f45f0f761e981","serverId":"66","gameCode":"946","roleId":"1801512955936704621","roleName":"kids","level":""}
 # ✅ Token lấy từ trình duyệt
-AUTH_TOKEN = "VlBuTUZvaFdyQzVzaVRRT2VaNFhFdGx0N25ZaXlTYU9nQzBzZ29kYm0waz1NaGRJQXVGakpqejFmdnUpa2ROX2YhSjFKV180eTRReHVxRWFSU1IkQlhEM2FfcGdhKlBEWEBaQWJKdkxHdCpFKXNzNHpJTWl4NnMwNXNAcVojbXMrMTM2MDA2NzUzNTk5NDg1NTQyNA=="
+AUTH_TOKEN = "L2JYUExJNjZXNFc3NEZpc2UwR3p5enNJeGU1Rm5CdXdaTFFZS3kwYU4rST1qSCM2RnFWazJkTjh1TmFwY2Q1Y29Gb2hmIUBVNCM1aDhFYzNta3RQUXpmNUMtcWkxbSEhVl93Vml2aWV3WkJfIShKaFNTM3E4bkdQXzhlbDJmUTArMTM2NTAxMzIyMTg3NDA0OTAyNA=="
 
 
 # Token lay tu file
