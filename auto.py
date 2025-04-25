@@ -15,13 +15,10 @@ with open("gift.txt", "r", encoding="utf-8") as f:
 # user_info = {"userId":"3204534136623620096","profileId":"33c5fbb541a5c981","serverId":"30","gameCode":"946","roleId":"1801473370581489933","roleName":"oSloW","level":""}
 # acc = "quynh.nguyenhuu@imipgroup.com"
 # user_info = {"userId":"3206406653746823168","profileId":"30e66b2b8ef88981","serverId":"36","gameCode":"946","roleId":"1801479968108685418","roleName":"slow36e","level":""}
-# acc = "nguyenquynhvp.ictu@gmail.com"
-# user_info = {"userId":"3206406653746823168","profileId":"30e66b2b8ef88981","serverId":"61","gameCode":"946","roleId":"1801507457927528523","roleName":"SlowQ","level":""}
-acc = "combackvs6"
-user_info1 = {"userId":"3209577257987686400","profileId":"311923431b66e981","serverId":"47","gameCode":"946","roleId":"1801492063511187487","roleName":"LinhYeu","level":""}
-user_info = {"userId":"3209577257987686400","profileId":"311923431b66e981","serverId":"65","gameCode":"946","roleId":"1801511856355633188","roleName":"slowq","level":""}
+acc = "nguyenquynhvp.ictu@gmail.com"
+user_info = {"userId":"3206406653746823168","profileId":"30e66b2b8ef88981","serverId":"36","gameCode":"946","roleId":"1801479968108685418","roleName":"slow36e","level":""}
 # ✅ Token lấy từ trình duyệt
-AUTH_TOKEN = "anl1NGNGQVcvT2J3QTR3TEJQRTZ0U3lOZTRsaURnb3BHc0hlNDFBSEFGYz05YjBUckooTTE1ayNQKE9NRHFsTEZSJDNDRkBiSVhXcndYdjI0OEohdnJII1MzYUdEaUFGS0MyIXlHREY3S2QhV3JJNnhQN3lRdzUjIVdPY1lSWigrMTM2NDg3MTM5OTg4ODExMzY2NA=="
+AUTH_TOKEN = "VlBuTUZvaFdyQzVzaVRRT2VaNFhFdGx0N25ZaXlTYU9nQzBzZ29kYm0waz1NaGRJQXVGakpqejFmdnUpa2ROX2YhSjFKV180eTRReHVxRWFSU1IkQlhEM2FfcGdhKlBEWEBaQWJKdkxHdCpFKXNzNHpJTWl4NnMwNXNAcVojbXMrMTM2MDA2NzUzNTk5NDg1NTQyNA=="
 
 
 # Token lay tu file
