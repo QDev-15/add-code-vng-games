@@ -16,9 +16,10 @@ with open("gift.txt", "r", encoding="utf-8") as f:
 # acc = "quynh.nguyenhuu@imipgroup.com"
 # user_info = {"userId":"3206406653746823168","profileId":"30e66b2b8ef88981","serverId":"36","gameCode":"946","roleId":"1801479968108685418","roleName":"slow36e","level":""}
 acc = "nguyenquynhvp.ictu@gmail.com"
-user_info = {"userId":"3206406653746823168","profileId":"30e66b2b8ef88981","serverId":"36","gameCode":"946","roleId":"1801479968108685418","roleName":"slow36e","level":""}
+link = "https://giftcode.vnggames.com/vn/redeem/946"
+user_info = {"userId":"3216562732197855232","profileId":"332f45f0f761e981","serverId":"89","gameCode":"946","roleId":"1801538246766174210","roleName":"snow1","level":"","code":"12321"}
 # ✅ Token lấy từ trình duyệt
-AUTH_TOKEN = "VlBuTUZvaFdyQzVzaVRRT2VaNFhFdGx0N25ZaXlTYU9nQzBzZ29kYm0waz1NaGRJQXVGakpqejFmdnUpa2ROX2YhSjFKV180eTRReHVxRWFSU1IkQlhEM2FfcGdhKlBEWEBaQWJKdkxHdCpFKXNzNHpJTWl4NnMwNXNAcVojbXMrMTM2MDA2NzUzNTk5NDg1NTQyNA=="
+AUTH_TOKEN = "VXp5MEFMZEEzTXB2MnF1aHN4NmtVam92cEJyMUxONDhlaVo0U0t3ajBUbz0odCpkd3R1RChEdUBOTUw2bioyalMjZGJYZmxmKkxkQExGVUZwT0JOUTZHRFptMyFvRXEhQUFRVTA4RHZ6T0QqVHJ0OUtLdjFmRVFQa0tEIU54VjErMTM2OTIzNzIxMjYzODI0MDc2OA=="
 
 
 # Token lay tu file
@@ -44,7 +45,7 @@ with open("result.txt", "w", encoding="utf-8") as result_file:
     
     result_file.write(f"🕒 Thời gian: {datetime.now()}\n\n")
     
-    result_file.write(f"Account: {acc}")
+    result_file.write(f"Account: {acc} - {link}")
     
     result_file.write("👤 Thông tin người dùng:\n")
     for k, v in user_info.items():

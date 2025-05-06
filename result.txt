@@ -1,74 +1,45 @@
-Kết quả nhập giftcode - 2025-04-11 15:08:37.837472
+Kết quả nhập giftcode - 2025-05-06 16:01:38.226523
 
-🕒 Thời gian: 2025-04-11 15:08:37.837472
+🕒 Thời gian: 2025-05-06 16:01:38.226523
 
-Account: nguyenquynhvp.ictu@gmail.com👤 Thông tin người dùng:
-  userId: 3206406653746823168
-  profileId: 30e66b2b8ef88981
-  serverId: 36
+Account: nguyenquynhvp.ictu@gmail.com - https://giftcode.vnggames.com/vn/redeem/946👤 Thông tin người dùng:
+  userId: 3216562732197855232
+  profileId: 332f45f0f761e981
+  serverId: 89
   gameCode: 946
-  roleId: 1801479968108685418
-  roleName: slow36e
+  roleId: 1801538246766174210
+  roleName: snow1
   level: 
+  code: 12321
 
 ===========================
-[DKTMULDVNG] → Active code: usage limit
-[DKTMU100K] → Active code: usage limit
-[DKTMU200K] → Active code: usage limit
-[DKTMU350K] → Active code: usage limit
-[DKTMU500K] → Active code: usage limit
-[NGUOIMOI] → Active code: usage limit
-[HELLOMUTIZEN] → Active code: usage limit
-[MU1MOC] → Active code: usage limit
-[3MOCMU] → Active code: usage limit
-[MUMOC2] → Active code: usage limit
-[MOC4MU] → Active code: usage limit
-[MOCMU5] → Active code: usage limit
-[TANTHU] → Active code: usage limit
-[NEWBIE] → Active code: usage limit
-[MUVNG] → Code not found
-[MULUCDIA] → Active code: usage limit
-[MUTANTHU] → Active code: usage limit
-[MURM999] → Active code: usage limit
-[MUMESS2999] → Active code: usage limit
-[MUMESS2039] → Active code: usage limit
-[MUMESS2001] → Active code: usage limit
-[MUMESS2002] → Active code: usage limit
-[VOTEAPP] → Active code: usage limit
-[APPVOTE] → Active code: usage limit
-[RATE5SAO] → Active code: usage limit
-[FIVESTAR] → Active code: usage limit
-[NAMSAO] → Active code: usage limit
-[LIVESTREAM] → Active code: usage limit
-[STREAMING] → Active code: usage limit
-[MUSTREAM] → Active code: usage limit
-[EXI7mDAG4kw] → Code has been used
-[PNgYkKQm0uC] → Code has been used
-[CkZDQg4VJxQ] → Code has been used
-[4XpctYNcOkt] → Code has been used
-[YdaemUylgQZ] → Code has been used
-[TIAO7m7S7rB] → Code has been used
-[8DVXDWs8MvI] → Code has been used
-[SyNig0UFx9e] → Code has been used
-[OE45iwKYIo2] → Code has been used
-[CgLK1kuAXwi] → Code has been used
-[ECGeLB3TQHv] → Code has been used
-[jWwViXp7V71] → Code has been used
-[m5b2JSQxUCt] → Code has been used
-[98CqzaAwtYc] → Code has been used
-[HdxVaXTrMU3] → Code has been used
-[SLNsWkFguN4] → Code has been used
-[JIxHPRVAKFJ] → Code has been used
-[QaiSA5qJRd1] → Code has been used
-[kOZAVtWYN70] → Code has been used
-[jcY9U0oHFQa] → Code has been used
-[bAjx21Pdk5q] → Code has been used
-[4meZPnMb72e] → Code has been used
-[6t0gpd1nGk2] → Code has been used
-[Jk5vd2iHTTp] → Code has been used
-[GM3hpwLmcAw] → Code has been used
-[T3WlfggqHMZ] → Code has been used
-[jyotmXAy6gu] → Code has been used
-[BIrNH7MuQLE] → Code has been used
-[vDb3LtZMfqb] → Code has been used
-[1pCFmKjxAqg] → Code has been used
+[HELLOMUTIZEN] → Success
+[CHIENNGAYMU] → Success
+[MU1MOC] → Success
+[MUMOC2] → Success
+[3MOCMU] → Success
+[MOC4MU] → Success
+[MOCMU5] → Success
+[NGUOIMOI] → Success
+[TANTHU] → Success
+[NEWBIE] → Success
+[MULUCDIA] → Success
+[MUTANTHU] → Success
+[DKTMULDVNG] → Success
+[DKTMU100K] → Success
+[DKTMU200K] → Success
+[DKTMU350K] → Success
+[DKTMU500K] → Success
+[MURM999] → Success
+[MUMESS2999] → Success
+[MUMESS2039] → Success
+[MUMESS2001] → Success
+[MUMESS2002] → Success
+[VOTEAPP] → Success
+[APPVOTE] → Success
+[RATE5SAO] → Success
+[FIVESTAR] → Success
+[NAMSAO] → Success
+[LIVESTREAM] → Success
+[STREAMING] → Success
+[MUSTREAM] → Success
