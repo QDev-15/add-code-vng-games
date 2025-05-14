@@ -1,45 +1,30 @@
-Kết quả nhập giftcode - 2025-05-06 16:01:38.226523
+Kết quả nhập giftcode - 2025-05-14 20:16:31.676446
 
-🕒 Thời gian: 2025-05-06 16:01:38.226523
+🕒 Thời gian: 2025-05-14 20:16:31.676496
 
-Account: nguyenquynhvp.ictu@gmail.com - https://giftcode.vnggames.com/vn/redeem/946👤 Thông tin người dùng:
-  userId: 3216562732197855232
-  profileId: 332f45f0f761e981
-  serverId: 89
+Account: {'info': {'userId': '3204549693749542912', 'profileId': '33c5f2a0ab65c981', 'serverId': '30', 'gameCode': '946', 'roleId': '1801473370585278761', 'roleName': 'slow123', 'level': '', 'code': 'MUSTREAM'}, 'auth': 'NGM5TDhKT0ZyeFlneXBHWU5BNjM2dS9leUJ3RHZ4cnQvMVRlbjNZeVNFRT1hKFhMOUdJX3N5aVcxWWJCZ0dCTERpdHRRJHZuckFZeS11T0RFWE5ZI0xScilqMihIQCF2OUtmRilHKkBwZVhHQ1V6c0FkQTV2MDMpZUw1cFBXUkcrMTM1OTAwNzIwODc4NDE0NjQzMg=='} - https://giftcode.vnggames.com/vn/redeem/946👤 Thông tin người dùng:
+  userId: 3204549693749542912
+  profileId: 33c5f2a0ab65c981
+  serverId: 30
   gameCode: 946
-  roleId: 1801538246766174210
-  roleName: snow1
+  roleId: 1801473370585278761
+  roleName: slow123
   level: 
-  code: 12321
+  code: MUSTREAM
 
 ===========================
-[HELLOMUTIZEN] → Success
-[CHIENNGAYMU] → Success
-[MU1MOC] → Success
-[MUMOC2] → Success
-[3MOCMU] → Success
-[MOC4MU] → Success
-[MOCMU5] → Success
-[NGUOIMOI] → Success
-[TANTHU] → Success
-[NEWBIE] → Success
-[MULUCDIA] → Success
-[MUTANTHU] → Success
-[DKTMULDVNG] → Success
-[DKTMU100K] → Success
-[DKTMU200K] → Success
-[DKTMU350K] → Success
-[DKTMU500K] → Success
-[MURM999] → Success
-[MUMESS2999] → Success
-[MUMESS2039] → Success
-[MUMESS2001] → Success
-[MUMESS2002] → Success
-[VOTEAPP] → Success
-[APPVOTE] → Success
-[RATE5SAO] → Success
-[FIVESTAR] → Success
-[NAMSAO] → Success
-[LIVESTREAM] → Success
-[STREAMING] → Success
-[MUSTREAM] → Success
+[pfW06JJgvXW] → Code has been used
+[hrnIhSqzvdj] → Code has been used
+[eYpnbRX9NA5] → Success
+[lbbKfhvTzdw] → Code has been used
+[c1msvR87gyo] → Code has been used
+[dDmeWyZlpAT] → Code has been used
+[0xA1LYQgYy5] → Code has been used
+[VGmSb2nz7BQ] → Code has been used
+[ORbRNpX52uB] → Code has been used
+[2whJS5Hj5Xy] → Code has been used
+[IVT8Dyw8VcG] → Code has been used
+[XJF0dKngY1b] → Code has been used
+[I3c8seLtyfa] → Code has been used
+[NrSPpmfuUnx] → Code has been used
+[OFLSIE0Jvrl] → Code has been used
