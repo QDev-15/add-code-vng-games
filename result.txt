@@ -1,30 +1,27 @@
-Kết quả nhập giftcode - 2025-05-14 20:16:31.676446
+Kết quả nhập giftcode - 2025-05-19 21:38:11.635332
 
-🕒 Thời gian: 2025-05-14 20:16:31.676496
+🕒 Thời gian: 2025-05-19 21:38:11.635786
 
-Account: {'info': {'userId': '3204549693749542912', 'profileId': '33c5f2a0ab65c981', 'serverId': '30', 'gameCode': '946', 'roleId': '1801473370585278761', 'roleName': 'slow123', 'level': '', 'code': 'MUSTREAM'}, 'auth': 'NGM5TDhKT0ZyeFlneXBHWU5BNjM2dS9leUJ3RHZ4cnQvMVRlbjNZeVNFRT1hKFhMOUdJX3N5aVcxWWJCZ0dCTERpdHRRJHZuckFZeS11T0RFWE5ZI0xScilqMihIQCF2OUtmRilHKkBwZVhHQ1V6c0FkQTV2MDMpZUw1cFBXUkcrMTM1OTAwNzIwODc4NDE0NjQzMg=='} - https://giftcode.vnggames.com/vn/redeem/946👤 Thông tin người dùng:
-  userId: 3204549693749542912
-  profileId: 33c5f2a0ab65c981
-  serverId: 30
+Account: {'info': {'userId': '3217197265211113472', 'profileId': '332c7a3392e1e981', 'serverId': '93', 'gameCode': '946', 'roleId': '1801542645300502569', 'roleName': 'slowa', 'level': '', 'code': '4234'}, 'auth': 'd3ZCMHNRaWVnYjU1aE5ld1JwMmc2YkNpSk8xeXRKRTNCK1lCTG5ianllcz1ocikjYVRGR09SUzFVOUxTYnhabG9Wa1AoQ1YwU01ieCpTbnc1a1poUXN1Qy0za1E0d01lV0MhNE5CM3kzUkN1X2kpWlNHQF8xelhzYWdpcUxJd0ErMTM3MTgzODY3Njg3Njc5NTkwNA=='} - https://giftcode.vnggames.com/vn/redeem/946👤 Thông tin người dùng:
+  userId: 3217197265211113472
+  profileId: 332c7a3392e1e981
+  serverId: 93
   gameCode: 946
-  roleId: 1801473370585278761
-  roleName: slow123
+  roleId: 1801542645300502569
+  roleName: slowa
   level: 
-  code: MUSTREAM
+  code: 4234
 
 ===========================
-[pfW06JJgvXW] → Code has been used
-[hrnIhSqzvdj] → Code has been used
-[eYpnbRX9NA5] → Success
-[lbbKfhvTzdw] → Code has been used
-[c1msvR87gyo] → Code has been used
-[dDmeWyZlpAT] → Code has been used
-[0xA1LYQgYy5] → Code has been used
-[VGmSb2nz7BQ] → Code has been used
-[ORbRNpX52uB] → Code has been used
-[2whJS5Hj5Xy] → Code has been used
-[IVT8Dyw8VcG] → Code has been used
-[XJF0dKngY1b] → Code has been used
-[I3c8seLtyfa] → Code has been used
-[NrSPpmfuUnx] → Code has been used
-[OFLSIE0Jvrl] → Code has been used
+[MUGIAIPHONG] → Active code: usage limit
+[DKTMULDVNG] → Active code: usage limit
+[DKTMU100K] → Active code: usage limit
+[DKTMU200K] → Active code: usage limit
+[DKTMU350K] → Active code: usage limit
+[DKTMU500K] → Active code: usage limit
+[NGUOIMOI] → Active code: usage limit
+[HELLOMUTIZEN] → Active code: usage limit
+[MU1MOC] → Active code: usage limit
+[MUMOC2] → Active code: usage limit
+[3MOCMU] → Active code: usage limit
+[MOC4MU] → Active code: usage limit

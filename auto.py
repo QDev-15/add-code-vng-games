@@ -74,7 +74,7 @@ manageAcc = {
 
 # account end
 
-accName = "comebackvs1"
+accName = "comebackvs7"
 acc = manageAcc[accName] # type: ignore
 user_info = acc["info"]
 # user_info["serverId"] = "" # server thứ : vd: 93
