@@ -1,27 +1,78 @@
-Kết quả nhập giftcode - 2025-05-19 21:38:11.635332
+Kết quả nhập giftcode - 2025-05-21 23:03:08.651719
 
-🕒 Thời gian: 2025-05-19 21:38:11.635786
+🕒 Thời gian: 2025-05-21 23:03:08.651773
 
-Account: {'info': {'userId': '3217197265211113472', 'profileId': '332c7a3392e1e981', 'serverId': '93', 'gameCode': '946', 'roleId': '1801542645300502569', 'roleName': 'slowa', 'level': '', 'code': '4234'}, 'auth': 'd3ZCMHNRaWVnYjU1aE5ld1JwMmc2YkNpSk8xeXRKRTNCK1lCTG5ianllcz1ocikjYVRGR09SUzFVOUxTYnhabG9Wa1AoQ1YwU01ieCpTbnc1a1poUXN1Qy0za1E0d01lV0MhNE5CM3kzUkN1X2kpWlNHQF8xelhzYWdpcUxJd0ErMTM3MTgzODY3Njg3Njc5NTkwNA=='} - https://giftcode.vnggames.com/vn/redeem/946👤 Thông tin người dùng:
-  userId: 3217197265211113472
-  profileId: 332c7a3392e1e981
-  serverId: 93
+Account: {'info': {'userId': '3209577257987686400', 'profileId': '311923431b66e981', 'serverId': '105', 'gameCode': '946', 'roleId': '1801555841658179736', 'roleName': 'kidr', 'level': '', 'code': '12323'}, 'auth': 'akdTak0rVWtGRmhqOVNQRGV6UjZ4Q25zTVdWaDFpWEdZc3RPOFg5clpZST1VbXZMVUo1MFEhKVUzbEA0dUE3cUVrb1JLcClmdVpLeHFIQzhHUTU0d3ppQ2NUOEpBYzdiI2shZTA5b1dPUzNsKVhBNU4tT1F4ZVBsWTYhdW5kNXorMTM3NDc3ODU4NTg5ODU3MzgyNA=='} - https://giftcode.vnggames.com/vn/redeem/946👤 Thông tin người dùng:
+  userId: 3209577257987686400
+  profileId: 311923431b66e981
+  serverId: 105
   gameCode: 946
-  roleId: 1801542645300502569
-  roleName: slowa
+  roleId: 1801555841658179736
+  roleName: kidr
   level: 
-  code: 4234
+  code: 12323
 
 ===========================
-[MUGIAIPHONG] → Active code: usage limit
-[DKTMULDVNG] → Active code: usage limit
-[DKTMU100K] → Active code: usage limit
-[DKTMU200K] → Active code: usage limit
-[DKTMU350K] → Active code: usage limit
-[DKTMU500K] → Active code: usage limit
-[NGUOIMOI] → Active code: usage limit
-[HELLOMUTIZEN] → Active code: usage limit
-[MU1MOC] → Active code: usage limit
-[MUMOC2] → Active code: usage limit
-[3MOCMU] → Active code: usage limit
-[MOC4MU] → Active code: usage limit
+[Code đợt 4] → Active code: invalid format
+[kzFsMxXpox6] → Code has been used
+[ZExGY3rCSoz] → Code has been used
+[CsUd2qnY6G3] → Code has been used
+[hILXQV9FUKi] → Code has been used
+[3GLIIGNPht6] → Code has been used
+[TLveKfpypYS] → Code has been used
+[pGHLrvca0Rl] → Code has been used
+[sKryecWaVC8] → Code has been used
+[pw3UsfSKjLH] → Code has been used
+[FFTi5OCpivv] → Code has been used
+[m6WiX1CGqte] → Code has been used
+[W6koFlal13d] → Code has been used
+[JYPu7WGoSl3] → Code has been used
+[4FVyfW4O7ay] → Code has been used
+[o39CzNNuNkA] → Code has been used
+[C601RlaLudB] → Code has been used
+[7QqsI7m9NXo] → Code has been used
+[j0JV6sgp1kf] → Code has been used
+[q7sBOu94s1P] → Code has been used
+[Ppr8dQ2Jldp] → Code has been used
+[69YRzyKqbem] → Code has been used
+[VeqirzIidIl] → Code has been used
+[GzZsERJALGt] → Code has been used
+[cmYzLa1cvQD] → Code has been used
+[tgzPaFbcJxF] → Code has been used
+[WcoY61DnAAb] → Code has been used
+[aqNimFQn5dX] → Code has been used
+[JK5atdhmw7W] → Code has been used
+[mt2O7P8WNRK] → Code has been used
+[YJVIMoBZrPx] → Success
+[Code đợt 3] → Active code: invalid format
+[AJeRReBXi4T] → Code has been used
+[KvmKSvpVmky] → Code has been used
+[opm1SjWLz5X] → Code has been used
+[m4DjCPQl7Wl] → Code has been used
+[zS470UuioR0] → Code has been used
+[Bwr1aAFSzTr] → Code has been used
+[ILiYKrWCpLw] → Code has been used
+[SWPOuHiKqSQ] → Code has been used
+[2xQnhI68OC7] → Code has been used
+[1wlcINmGuhx] → Code has been used
+[E0xpkmdvL4t] → Code has been used
+[eRe9FoYucPr] → Code has been used
+[wrkJSPsPO0b] → Code has been used
+[qpU4N6p8ZBR] → Code has been used
+[MM2fKaGnUsp] → Success
+[Code đợt 1] → Active code: invalid format
+[kkLVjq7VyTv] → Code has been used
+[AB95VGQlSGr] → Code has been used
+[D3YjRDOIKQj] → Code has been used
+[s5BUqFY2Ayx] → Code has been used
+[ZUb6gEdmLkl] → Code has been used
+[hQjioElpDGD] → Code has been used
+[dwkH1Tn0KKr] → Code has been used
+[Th18dolVsmK] → Code has been used
+[Dq7KJHt4VOk] → Code has been used
+[9VICwo79J7D] → Code has been used
+[J30omv8ZOQo] → Code has been used
+[nQQuzszdhvH] → Code has been used
+[2cue91BW3NH] → Code has been used
+[vITcqj9wa5U] → Code has been used
+[YS2rLTandvX] → Code has been used
