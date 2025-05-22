@@ -5,7 +5,7 @@ from datetime import datetime
 # ✅ Đọc danh sách mã giftcode từ file
 # with open("gift_use_one.txt", "r", encoding="utf-8") as f:
 #     giftcodes = [line.strip() for line in f if line.strip()]
-with open("gift.txt", "r", encoding="utf-8") as f:
+with open("gift1.txt", "r", encoding="utf-8") as f:
     giftcodes = [line.strip() for line in f if line.strip()]
 
 # ✅ Thông tin người dùng (cần thay bằng của bạn)
@@ -13,35 +13,71 @@ link = "https://giftcode.vnggames.com/vn/redeem/946"
 # account start
 manageAcc = {
     "comebackvs1": {
-        "info": {"userId":"3216562732197855232","profileId":"332f45f0f761e981","serverId":"106","gameCode":"946","roleId":"1801556941251940444","roleName":"kid1","level":"","code":"34234"},
+        "info": {
+            "userId": "3216562732197855232",
+            "profileId": "332f45f0f761e981",
+            "serverId": "107",
+            "gameCode": "946",
+            "roleId": "1801558040830296116",
+            "roleName": "kid1",
+            "level": "",
+            "code": "12323"
+            },
         "auth": "WGVIQW9ydlJ2Um5QUlRDZ0p0RkIyaFJxRWlvcmdPL1BZLzBFbkFXVmdSTT0yVnJDcU5fZWdEKWpIODkoYUdSSzZtUkVyKHg2SyFnT29DSnp5VVN4NzVwWTFIUGlzKGpDZE9JZ2J1NDhVczZDeClUaDVJTmNXZzBHN0N6b2xCOUArMTM3NDc0NDI2MTg2NjE5Mjg5Ng=="
     },
     "comebackvs2": {
-        "info": {"userId":"3217190153209102336","profileId":"332c676f83250981","serverId":"106","gameCode":"946","roleId":"1801556941252034613","roleName":"kid2","level":"","code":"42342"},
+        "info": {
+            "userId": "3217190153209102336",
+            "profileId": "332c676f83250981",
+            "serverId": "107",
+            "gameCode": "946",
+            "roleId": "1801558040830388258",
+            "roleName": "kid2",
+            "level": "",
+            "code": "123123"
+            },
         "auth": "eEd6dTN2RnB1SGd6VUdtMmFMWmlJbDVUWkZERnFObGRQcnVlaEt2cWExQT1IMzVAMnAqJGtQc3Y4cEMzMm8xSzMoUyNreFY3ME1uZ09zMktXYzhQOU1POUkpZWhDcGc3UCREdndyOVJGNksoak8qIVYzamI5eXNjNkhoVlM2RWgrMTM3NDc1MTU1NTg3MjY4MTk4NA=="
     },
     "comebackvs3": {
-        "info": {"userId":"3217192254024466432","profileId":"332c647473e50981","serverId":"106","gameCode":"946","roleId":"1801556941252118940","roleName":"kid3","level":"","code":"123123"},
+        "info": {
+            "userId": "3217192254024466432",
+            "profileId": "332c647473e50981",
+            "serverId": "107",
+            "gameCode": "946",
+            "roleId": "1801558040830482445",
+            "roleName": "kid3",
+            "level": "",
+            "code": "1232"
+            },
         "auth": "ZTVvbVp2TG80eEhSTlc3ZkEzcFBmTnBNQk5WODBtK1dJRjVTSElaNzZxQT1ob1NsY25QMDJDV1BEUHZwJEJwMGlNWW5aSCptRHVoTFpnR1owQGskRWR5c3diNl8kbnNuclIpU1BMY3lLNDkjRlJsSTZYbWlETkdNbVNRUVhNYTUrMTM3NDc1OTM2ODU1NjYwNTQ0MA=="
     },
     "comebackvs4": {
-        "info": {"userId":"3236067817373089792","profileId":"330dff992962f981","serverId":"106","gameCode":"946","roleId":"1801556941252243715","roleName":"kid4","level":"","code":"1321"},
+        "info": {
+            "userId": "3236067817373089792",
+            "profileId": "330dff992962f981",
+            "serverId": "107",
+            "gameCode": "946",
+            "roleId": "1801558040830603371",
+            "roleName": "kid4",
+            "level": "",
+            "code": "12123"
+            },
         "auth": "SWpJeXhNc1ZaUU42Q2dtSHVRajAwV0dheC9KNFRscGx3Z2xJcS9vRi9paz1vRi1aT3VRQS1WbUA2NTl5WCkwQjl0VGFObmcjVSFaKTJQeEx2YTIzaUBQdG9qbmoyOU9JKTZlcDl0cTlNVDhJeVBaNFZzWGNMayozOGJHNW5YNFArMTM3NDc2NjM0MDM2MzY4MTc5Mg=="
     },
     "comebackvs5": {
-        "info": {"userId":"3217195281360044032","profileId":"332c65d48da1e981","serverId":"106","gameCode":"946","roleId":"1801556941252381209","roleName":"kid5","level":"","code":"123213"},
+        "info": {"userId":"3217195281360044032","profileId":"332c65d48da1e981","serverId":"107","gameCode":"946","roleId":"1801558040830699554","roleName":"kid5","level":"","code":"12323"},
         "auth": "N0tIaVUwKzZHcXFFeStMSTZzaC9KcHpSa1JRYm9xWndidVBUTUpwV1FqZz1iNm5DUHMxWF9Uc3lMJDQ2MU1QRzlZWmxLb1hkcjRfclpSMHBHRE5pdWhzVlhlekFPVl8hX0cjLVVDaHhfVlNpWnRaZ0ZQRDBvRG4qaTlSYnhCQzUrMTM3NDc3MTMwNjkwNjE1NzA1Ng=="
     },
     "comebackvs6": {
-        "info": {"userId":"3209577257987686400","profileId":"311923431b66e981","serverId":"106","gameCode":"946","roleId":"1801556941252495507","roleName":"kid6","level":"","code":"13123"},
+        "info": {"userId":"3209577257987686400","profileId":"311923431b66e981","serverId":"107","gameCode":"946","roleId":"1801558040830787601","roleName":"kid6","level":"","code":"123123"},
         "auth": "akdTak0rVWtGRmhqOVNQRGV6UjZ4Q25zTVdWaDFpWEdZc3RPOFg5clpZST1VbXZMVUo1MFEhKVUzbEA0dUE3cUVrb1JLcClmdVpLeHFIQzhHUTU0d3ppQ2NUOEpBYzdiI2shZTA5b1dPUzNsKVhBNU4tT1F4ZVBsWTYhdW5kNXorMTM3NDc3ODU4NTg5ODU3MzgyNA=="
     },
     "comebackvs7": {
-        "info": {"userId":"3217197265211113472","profileId":"332c7a3392e1e981","serverId":"106","gameCode":"946","roleId":"1801556941280553448","roleName":"kid7","level":"","code":"123123"},
+        "info": {"userId":"3217197265211113472","profileId":"332c7a3392e1e981","serverId":"107","gameCode":"946","roleId":"1801558040830873672","roleName":"kid7","level":"","code":"12323"},
         "auth": "d3ZCMHNRaWVnYjU1aE5ld1JwMmc2YkNpSk8xeXRKRTNCK1lCTG5ianllcz1ocikjYVRGR09SUzFVOUxTYnhabG9Wa1AoQ1YwU01ieCpTbnc1a1poUXN1Qy0za1E0d01lV0MhNE5CM3kzUkN1X2kpWlNHQF8xelhzYWdpcUxJd0ErMTM3MTgzODY3Njg3Njc5NTkwNA=="
     },
     "comebackvs8": {
-        "info": {"userId":"3217200108909740032","profileId":"332c7be68c250981","serverId":"106","gameCode":"946","roleId":"1801556941280688231","roleName":"kid8","level":"","code":"4234234"},
+        "info": {"userId":"3217200108909740032","profileId":"332c7be68c250981","serverId":"107","gameCode":"946","roleId":"1801558040830955619","roleName":"kid8","level":"","code":"23123"},
         "auth": "K2ltK2wzOTVUV2lxaUZMdVd0SHBWQ1RrSXoyb2UySnJuNzFIRHp4anBnbz0oWjFLOVFyQk9DSmlEU3IzI25OdE00WHlEekRFQ0dENDB1VVVzU25FVEVKd3BIX0FJQnQjWVlLQkVhUm5ZVkB2a19wckxCaXNuOVVzOFdRUUk5MSgrMTM3NTAwOTYzMTI0NDE0ODczNg=="
     },
     "comebackvs9": {
@@ -56,7 +92,9 @@ manageAcc = {
 
 # account end
 
-accName = "comebackvs9"
+# acc7 => w1 + MP khi diet quai
+
+accName = "comebackvs3"
 acc = manageAcc[accName] # type: ignore
 user_info = acc["info"]
 # user_info["serverId"] = "" # server thứ : vd: 93

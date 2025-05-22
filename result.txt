@@ -1,47 +1,78 @@
-Kết quả nhập giftcode - 2025-05-22 14:20:59.034075
+Kết quả nhập giftcode - 2025-05-22 22:33:52.186119
 
-🕒 Thời gian: 2025-05-22 14:20:59.034075
+🕒 Thời gian: 2025-05-22 22:33:52.186197
 
-Account: {'info': {'userId': '3217203199538905088', 'profileId': '332c797ebb650981', 'serverId': '106', 'gameCode': '946', 'roleId': '1801556941280850179', 'roleName': 'kid9', 'level': '', 'code': '131232'}, 'auth': 'cGxJZHBzaGp1TldqRVFRWkJpQ3lZTklWNG9xV3drT3EwRWh1N3JDb3NmUT12eG5vc1E4IylSbm1haGVfVVh3KUF5RCluUlFQZGprKDZEeGtnblJSTGgqeU04d0BxRjFSMXFIM2R4cHFhbm9XZUBlb0VQMnMpcWVQdjkobm9VdSErMTM3NTAxMDMwODMzODE2NzgwOA=='} - https://giftcode.vnggames.com/vn/redeem/946👤 Thông tin người dùng:
-  userId: 3217203199538905088
-  profileId: 332c797ebb650981
-  serverId: 106
+Account: {'info': {'userId': '3217192254024466432', 'profileId': '332c647473e50981', 'serverId': '107', 'gameCode': '946', 'roleId': '1801558040830482445', 'roleName': 'kid3', 'level': '', 'code': '1232'}, 'auth': 'ZTVvbVp2TG80eEhSTlc3ZkEzcFBmTnBNQk5WODBtK1dJRjVTSElaNzZxQT1ob1NsY25QMDJDV1BEUHZwJEJwMGlNWW5aSCptRHVoTFpnR1owQGskRWR5c3diNl8kbnNuclIpU1BMY3lLNDkjRlJsSTZYbWlETkdNbVNRUVhNYTUrMTM3NDc1OTM2ODU1NjYwNTQ0MA=='} - https://giftcode.vnggames.com/vn/redeem/946👤 Thông tin người dùng:
+  userId: 3217192254024466432
+  profileId: 332c647473e50981
+  serverId: 107
   gameCode: 946
-  roleId: 1801556941280850179
-  roleName: kid9
+  roleId: 1801558040830482445
+  roleName: kid3
   level: 
-  code: 131232
+  code: 1232
 
 ===========================
-[comebackvs9]:[HELLOMUTIZEN] → Success
-[comebackvs9]:[CHIENNGAYMU] → Success
-[comebackvs9]:[MU1MOC] → Success
-[comebackvs9]:[MUMOC2] → Success
-[comebackvs9]:[3MOCMU] → Success
-[comebackvs9]:[MOC4MU] → Success
-[comebackvs9]:[MOCMU5] → Success
-[comebackvs9]:[NGUOIMOI] → Success
-[comebackvs9]:[TANTHU] → Success
-[comebackvs9]:[NEWBIE] → Success
-[comebackvs9]:[MULUCDIA] → Success
-[comebackvs9]:[MUTANTHU] → Success
-[comebackvs9]:[DKTMULDVNG] → Success
-[comebackvs9]:[DKTMU100K] → Success
-[comebackvs9]:[DKTMU200K] → Success
-[comebackvs9]:[DKTMU350K] → Success
-[comebackvs9]:[DKTMU500K] → Success
-[comebackvs9]:[MURM999] → Success
-[comebackvs9]:[MUMESS2999] → Success
-[comebackvs9]:[MUMESS2039] → Success
-[comebackvs9]:[MUMESS2001] → Success
-[comebackvs9]:[MUMESS2002] → Success
-[comebackvs9]:[VOTEAPP] → Success
-[comebackvs9]:[APPVOTE] → Success
-[comebackvs9]:[RATE5SAO] → Success
-[comebackvs9]:[FIVESTAR] → Success
-[comebackvs9]:[NAMSAO] → Success
-[comebackvs9]:[LIVESTREAM] → Success
-[comebackvs9]:[STREAMING] → Success
-[comebackvs9]:[MUSTREAM] → Success
-[comebackvs9]:[MUGIAIPHONG] → Success
-[comebackvs9]:[TRAIN1905] → Code not found
+[comebackvs3]:[Code đợt 4] → Active code: invalid format
+[comebackvs3]:[kzFsMxXpox6] → Code has been used
+[comebackvs3]:[ZExGY3rCSoz] → Code has been used
+[comebackvs3]:[CsUd2qnY6G3] → Code has been used
+[comebackvs3]:[hILXQV9FUKi] → Code has been used
+[comebackvs3]:[3GLIIGNPht6] → Code has been used
+[comebackvs3]:[TLveKfpypYS] → Code has been used
+[comebackvs3]:[pGHLrvca0Rl] → Code has been used
+[comebackvs3]:[sKryecWaVC8] → Code has been used
+[comebackvs3]:[pw3UsfSKjLH] → Code has been used
+[comebackvs3]:[FFTi5OCpivv] → Code has been used
+[comebackvs3]:[m6WiX1CGqte] → Code has been used
+[comebackvs3]:[W6koFlal13d] → Code has been used
+[comebackvs3]:[JYPu7WGoSl3] → Code has been used
+[comebackvs3]:[4FVyfW4O7ay] → Code has been used
+[comebackvs3]:[o39CzNNuNkA] → Code has been used
+[comebackvs3]:[C601RlaLudB] → Code has been used
+[comebackvs3]:[7QqsI7m9NXo] → Code has been used
+[comebackvs3]:[j0JV6sgp1kf] → Code has been used
+[comebackvs3]:[q7sBOu94s1P] → Code has been used
+[comebackvs3]:[Ppr8dQ2Jldp] → Code has been used
+[comebackvs3]:[69YRzyKqbem] → Code has been used
+[comebackvs3]:[VeqirzIidIl] → Code has been used
+[comebackvs3]:[GzZsERJALGt] → Code has been used
+[comebackvs3]:[cmYzLa1cvQD] → Code has been used
+[comebackvs3]:[tgzPaFbcJxF] → Code has been used
+[comebackvs3]:[WcoY61DnAAb] → Code has been used
+[comebackvs3]:[aqNimFQn5dX] → Code has been used
+[comebackvs3]:[JK5atdhmw7W] → Code has been used
+[comebackvs3]:[mt2O7P8WNRK] → Code has been used
+[comebackvs3]:[YJVIMoBZrPx] → Code has been used
+[comebackvs3]:[Code đợt 3] → Active code: invalid format
+[comebackvs3]:[AJeRReBXi4T] → Code has been used
+[comebackvs3]:[KvmKSvpVmky] → Code has been used
+[comebackvs3]:[opm1SjWLz5X] → Code has been used
+[comebackvs3]:[m4DjCPQl7Wl] → Code has been used
+[comebackvs3]:[zS470UuioR0] → Code has been used
+[comebackvs3]:[Bwr1aAFSzTr] → Code has been used
+[comebackvs3]:[ILiYKrWCpLw] → Code has been used
+[comebackvs3]:[SWPOuHiKqSQ] → Code has been used
+[comebackvs3]:[2xQnhI68OC7] → Code has been used
+[comebackvs3]:[1wlcINmGuhx] → Code has been used
+[comebackvs3]:[E0xpkmdvL4t] → Code has been used
+[comebackvs3]:[eRe9FoYucPr] → Code has been used
+[comebackvs3]:[wrkJSPsPO0b] → Code has been used
+[comebackvs3]:[qpU4N6p8ZBR] → Code has been used
+[comebackvs3]:[MM2fKaGnUsp] → Code has been used
+[comebackvs3]:[Code đợt 1] → Active code: invalid format
+[comebackvs3]:[kkLVjq7VyTv] → Code has been used
+[comebackvs3]:[AB95VGQlSGr] → Code has been used
+[comebackvs3]:[D3YjRDOIKQj] → Code has been used
+[comebackvs3]:[s5BUqFY2Ayx] → Code has been used
+[comebackvs3]:[ZUb6gEdmLkl] → Code has been used
+[comebackvs3]:[hQjioElpDGD] → Code has been used
+[comebackvs3]:[dwkH1Tn0KKr] → Code has been used
+[comebackvs3]:[Th18dolVsmK] → Code has been used
+[comebackvs3]:[Dq7KJHt4VOk] → Code has been used
+[comebackvs3]:[9VICwo79J7D] → Code has been used
+[comebackvs3]:[J30omv8ZOQo] → Code has been used
+[comebackvs3]:[nQQuzszdhvH] → Code has been used
+[comebackvs3]:[2cue91BW3NH] → Code has been used
+[comebackvs3]:[vITcqj9wa5U] → Code has been used
+[comebackvs3]:[YS2rLTandvX] → Code has been used
